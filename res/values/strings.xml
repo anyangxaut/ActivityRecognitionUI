@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">行为识别APP</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="login_page">行为识别实时识别系统</string>
+    <string name="username">用户名:</string>
+    <string name="password">密码:</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="headshot">头像</string>
+    <string name="algorithms">请选择识别算法：</string>
+    <string name="login_register_link">没有帐号？ <a href="#" mce_href="#">注册</a></string>
+    <string name="text_algorithm">算法选择</string>
+    <string name="text_result">实时结果</string>
+    <string name="text_setting">设置</string>
+    <string name="text_sure">确定</string>
+    <string name="text_name">xautjzd</string>
+    <string name="text_state">当前状态：*****</string>
+    <string name="text_feature">特征信息：*****</string>
+    <string name="text_frequent">采样频率设置：</string>
+
+</resources>

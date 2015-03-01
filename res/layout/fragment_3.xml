@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#87cefa"
+    android:gravity="center_horizontal" >
+    
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dip"
+        android:text="@string/text_frequent"/>
+    
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="200dip"
+        android:layout_height="50dip"
+        android:layout_marginTop="20dip"/>
+    
+    <Button
+        android:id="@+id/sure"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:text="@string/text_sure"/>
+
+
+</LinearLayout>
